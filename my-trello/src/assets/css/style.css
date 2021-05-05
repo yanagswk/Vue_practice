@@ -1,5 +1,5 @@
 html {
-    background: orange;
+    background: aqua;
     font-family: 'Avenir', Helvetica, Arial, 'system-ui', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -10,7 +10,7 @@ html {
   }
   
 header {
-    background: orange;
+    background: aqua;
     height: 70px;
     color: white;
     font-style: italic;
